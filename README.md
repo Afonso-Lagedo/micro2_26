@@ -1,7 +1,7 @@
 # micro2_26
 Repositório para acompanhamento das aulas de microsserviços piaget ADS 5sem26
 
-# obs - execução de scripts
+## obs - execução de scripts
 - Abrir o powershell como administrador
 - Rodar o comando: 'Set-ExecutionPolicy RemoteSigned'
 - confirmar com 'S' 
@@ -42,3 +42,14 @@ npm install express
 ```
 
 O `express` sera o framework principal da nossa API REST.
+
+## rodar versão incial
+- criar index.js e adicionar o código
+- no terminal rodar o comando: 
+```bash
+node index.js
+```
+- no navegador: 
+```bash
+http://localhost:PORTA/ROTA
+```
