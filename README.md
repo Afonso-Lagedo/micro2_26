@@ -53,3 +53,10 @@ node index.js
 ```bash
 http://localhost:PORTA/ROTA
 ```
+
+## rodar a segunda vez
+
+no terminal:
+```bash
+npm i
+```
