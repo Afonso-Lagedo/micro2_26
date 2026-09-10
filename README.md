@@ -60,3 +60,10 @@ no terminal:
 ```bash
 npm i
 ```
+
+## automação para ligar o server
+
+no terminal:
+```bash
+npm start
+```
