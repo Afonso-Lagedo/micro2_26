@@ -5,7 +5,7 @@ const Aluno = require ('./models/Aluno');
 const app = express();
 const PORT = 3003;
 
-app.use(express.json)
+app.use(express.json())
 
 app.get('/', (req, res) =>{
     res.send("SEJA BEM VINDO!")
